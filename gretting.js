@@ -41,3 +41,5 @@ function init (){
     loadName();
 }
 init();
+
+selet.innerHTML(korea)
